@@ -559,7 +559,7 @@
     },
     {
         "name": "Water Mill",
-        "maintenance": 2,
+        "maintenance": 1,
         "food": 2,
         "production": 1,
         "hurryCostModifier": 25,
@@ -3284,7 +3284,7 @@
         "cost": 1500,
         "isNationalWonder": true,
         "uniques": [
-            "Only available <when above [30] [Policies]>",
+            "Only available <when above [36] [Policies]>",
             "Triggers a global alert upon build start",
             "Triggers a Cultural Victory upon completion",
             "Hidden when [Cultural] Victory is disabled",
