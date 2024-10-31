@@ -2502,15 +2502,10 @@
             "Can see invisible [Submarine] units",
             "[100]% chance to intercept air attacks",
             "Can move after attacking",
-<<<<<<<<< Temporary merge branch 1
-            "Withdraws before melee combat <with [80]% chance>",
             "[+100]% Strength <vs [Submarine] units>",
-            "[-50]% Damage when intercepting"
-=========
-            "Withdraws before melee combat <with [100]% chance>",
+            "[-50]% Damage when intercepting",
+            "Withdraws before melee combat <with [100]% chance>"
             //up 80->100. 80 can be cheated by reloading the move
-            "[+100]% Strength <vs [Submarine] units>"
->>>>>>>>> Temporary merge branch 2
         ],
         "attackSound": "shipguns"
     },
