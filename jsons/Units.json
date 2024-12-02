@@ -1008,8 +1008,8 @@
             "Unbuildable",
             "Mercenary",
             "Can be purchased with [Gold] [in all cities]",
-            "Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
-            "Earn [100]% of killed [Military] unit's [Strength] as [Gold]"
+            "Earn [100]% of killed [Military] unit's [Strength] as [Faith] <(modified by game speed)>",
+            "Earn [100]% of killed [Military] unit's [Strength] as [Gold] <(modified by game speed)>"
         ],
         "upgradesTo": "Rifleman",
         "attackSound": "metalhit"
@@ -1350,7 +1350,7 @@
             "Mountaineer"
         ],
         "uniques": [
-            "Earn [200]% of killed [Military] unit's [Strength] as [Gold]",
+            "Earn [200]% of killed [Military] unit's [Strength] as [Gold] <(modified by game speed)>",
             "Only available <in cities with a [Reislauder Post]>",
             "Cannot be purchased"
         ],
@@ -1460,7 +1460,7 @@
         "uniques": [
             "May enter foreign tiles without open borders",
             "[+20]% Strength <when fighting in [Foreign Land] tiles>",
-            "Earn [200]% of killed [Military] unit's [Strength] as [Faith]"
+            "Earn [200]% of killed [Military] unit's [Strength] as [Faith] <(modified by game speed)>"
         ],
         "upgradesTo": "Musketman",
         "obsoleteTech": "Gunpowder",
