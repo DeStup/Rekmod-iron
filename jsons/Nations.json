@@ -344,7 +344,7 @@
         "outerColor": [139,32,23],
         "innerColor": [134,238,214],
         "uniqueName": "Sacrificial Captives",
-        "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]"],
+        "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture] <(modified by game speed)>"],
         "cities": [
             "Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan","Atzcapotzalco","Tzintzuntzan",
             "Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco","Ixtapaluca","Huexotla","Tepexpan",
