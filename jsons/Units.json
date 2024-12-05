@@ -998,8 +998,8 @@
         "replaces": "Landsknecht",
         "unitType": "Sword",
         "movement": 3,
-        "strength": 25,
-        "cost": 65,
+        "strength": 20,
+        "cost": 52,
         "requiredTech": "Civil Service",
         "promotions": ["Medic","Medic II"],
         "uniques": [
