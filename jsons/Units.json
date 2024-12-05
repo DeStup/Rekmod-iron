@@ -1000,13 +1000,13 @@
         "movement": 3,
         "strength": 25,
         "cost": 65,
-        "requiredTech": "Civil Service",
+        "requiredTech": "Economics",
         "promotions": ["Medic","Medic II"],
         "uniques": [
             "[+50]% Strength <vs [Mounted] units>",
             "No movement cost to pillage",
             "Unbuildable",
-            "Mercenary", // temp fix for now
+            "Mercenary",
             "Can be purchased with [Gold] [in all cities]",
             "Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
             "Earn [100]% of killed [Military] unit's [Strength] as [Gold]"
@@ -2521,7 +2521,7 @@
         "promotions": ["Amphibious"],
         "uniques": [
             "[+1] Sight <when [Embarked]>",
-            "Defense bonus when embarked"
+            "[+100]% Strength <when defending> <when [Embarked]>"
         ],
         "attackSound": "shot"
     },
