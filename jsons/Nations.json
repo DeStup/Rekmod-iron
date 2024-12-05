@@ -2938,7 +2938,7 @@
         "name": "Ukraine",
         "leaderName": "Yaroslav I",
         "adjective": ["Ukrainian"],
-        "startBias": ["Avoid [Coast]", "Plains"],
+        "startBias": ["Avoid [Coast]", "Avoid [Hill]"],
         "startIntroPart1": " ",
         "startIntroPart2": " ",
         "declaringWar": "Prepare for war!",
