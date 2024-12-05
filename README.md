@@ -10,7 +10,8 @@ Mod changes by DeStup:
 - religionLimitMultiplier 1 > 0.5 and religionLimitBase 0 -> 1
 - added Multiplayer speed (scienceCostModifier and cultureCostModifier 0.5)
 - rebalance strategic resources (beta)
-- fixed startBias for Vietnam
+- fixed startBias for Vietnam, Armenia, Aztecs, Israel, Iroqez, Canada, Ukraine, Finland, Hitties, Sweden
 - Destroyer withdraws before melee combat with 100% chance
 - Missile can be intercepted, Nuclear Missile has 1 hp
 - Watermill maintenance 2->1
+- Swiss Guard moved from Economic to Civil Service, Strength 25->20, Cost 65->52
