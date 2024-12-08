@@ -242,7 +242,7 @@
     {
         "name": "Fort",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
-        "turnsToBuild": 6,
+        "turnsToBuild": 8,
         "techRequired": "Engineering",
         "uniques": [
             "Can be built outside your borders",
@@ -419,7 +419,7 @@
     {
         "name": "Repair",
         "terrainsCanBeBuiltOn": ["Land"],
-        "turnsToBuild": 2,
+        "turnsToBuild": 3,
         "shortcutKey": "E",
         "uniques": [
             "Unbuildable",
