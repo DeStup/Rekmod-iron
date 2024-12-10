@@ -1,7 +1,7 @@
 [
     {
         "name": "Settler",
-        "baseHappiness": 13,
+        "baseHappiness": 15,
         "extraHappinessPerLuxury": 1,
         "researchCostModifier": 0.9,
         "unitCostModifier": 0.5,
@@ -29,7 +29,7 @@
     },
     {
         "name": "Chieftain",
-        "baseHappiness": 13,
+        "baseHappiness": 12,
         "extraHappinessPerLuxury": 1,
         "researchCostModifier": 0.95,
         "unitCostModifier": 0.67,
@@ -57,7 +57,7 @@
     },
     {
         "name": "Warlord",
-        "baseHappiness": 13,
+        "baseHappiness": 12,
         "extraHappinessPerLuxury": 0,
         "researchCostModifier": 1,
         "unitCostModifier": 0.85,
@@ -85,7 +85,7 @@
     },
     {
         "name": "Prince",
-        "baseHappiness": 13,
+        "baseHappiness": 9,
         "extraHappinessPerLuxury": 0,
         "researchCostModifier": 1,
         "unitCostModifier": 1,
@@ -113,7 +113,7 @@
     },
     {
         "name": "King",
-        "baseHappiness": 13,
+        "baseHappiness": 9,
         "extraHappinessPerLuxury": 0,
         "researchCostModifier": 1,
         "unitCostModifier": 1,
@@ -141,7 +141,7 @@
     },
     {
         "name": "Emperor",
-        "baseHappiness": 13,
+        "baseHappiness": 9,
         "extraHappinessPerLuxury": 0,
         "researchCostModifier": 1,
         "unitCostModifier": 1,
@@ -169,7 +169,7 @@
     },
     {
         "name": "Immortal",
-        "baseHappiness": 13,
+        "baseHappiness": 9,
         "extraHappinessPerLuxury": 0,
         "researchCostModifier": 1,
         "unitCostModifier": 1,
@@ -197,7 +197,7 @@
     },
     {
         "name": "Deity",
-        "baseHappiness": 13,
+        "baseHappiness": 9,
         "extraHappinessPerLuxury": 0,
         "researchCostModifier": 1,
         "unitCostModifier": 1,
