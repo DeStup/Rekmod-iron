@@ -6,9 +6,8 @@ https://docs.google.com/document/d/18tsjg2C1wKA7I41GktDRr6R83eUrhn4FHi9EUEtpKvI/
 # RekMOD-iron
 Mod changes by DeStup:
 - removed barbarian bonus on King+
-- +4 happiness on Chieftain+
 - religionLimitMultiplier 1 > 0.5 and religionLimitBase 0 -> 1
-- added Multiplayer speed (scienceCostModifier and cultureCostModifier 0.5)
+- added Multiplayer speed (scienceCostModifier and cultureCostModifier 0.55/0.50)
 - rebalance strategic resources (beta)
 - fixed startBias for Vietnam, Armenia, Aztecs, Israel, Iroqez, Canada, Ukraine, Finland, Hitties, Sweden
 - Destroyer withdraws before melee combat with 100% chance
