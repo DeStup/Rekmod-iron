@@ -12,5 +12,6 @@ Mod changes by DeStup:
 - fixed startBias for Vietnam, Armenia, Aztecs, Israel, Iroqez, Canada, Ukraine, Finland, Hitties, Sweden
 - Destroyer withdraws before melee combat with 100% chance
 - Missile can be intercepted, Nuclear Missile has 1 hp
-- Watermill maintenance 2->1
 - Swiss Guard moved from Economic to Civil Service, Strength 25->20, Cost 65->52
+- 1 additional policy for the first to adopt the type of ideology
+- Project Utopia 30 -> 32

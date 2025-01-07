@@ -748,6 +748,7 @@
         "era": "Ancient era",
         "uniques": [
             "Free Social Policy",
+            "Free Social Policy <if no other Civilization has adopted this>",
             "Comment [Unlocks [Kremlin]]",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>",
@@ -967,6 +968,7 @@
         "era": "Ancient era",
         "uniques": [
             "Free Social Policy",
+            "Free Social Policy <if no other Civilization has adopted this>",
             "Comment [Unlocks [Statue of Liberty]]",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Order]>",
@@ -1190,6 +1192,7 @@
         "era": "Ancient era",
         "uniques": [
             "Free Social Policy",
+            "Free Social Policy <if no other Civilization has adopted this>",
             "Comment [Unlocks [Prora]]",
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>",
