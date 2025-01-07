@@ -738,7 +738,7 @@
     },
     {
         "name": "Water Mill",
-        "maintenance": 1,
+        "maintenance": 2,
         "food": 2,
         "production": 1,
         "hurryCostModifier": 25,
