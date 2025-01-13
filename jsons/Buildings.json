@@ -2303,7 +2303,7 @@
         "gold": 2,
         "specialistSlots": {"Merchant": 1},
         "hurryCostModifier": 15,
-        "percentStatBonus": {"gold": 25,"production": 25},
+        "percentStatBonus": {"gold": 25,"production": 10},
         //"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
