@@ -15,3 +15,4 @@ Mod changes by DeStup:
 - Swiss Guard moved from Economic to Civil Service, Strength 25->20, Cost 65->52
 - 1 additional policy for the first to adopt the type of ideology
 - Project Utopia 30 -> 32
+- Hanse 25% -> 10%
